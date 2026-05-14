@@ -1,2 +1,2 @@
 # pyname_quiz
-programa en python 
+programa en pygame para hacer una animacion sencilla
